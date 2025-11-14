@@ -1,0 +1,9 @@
+{
+  "name": "hello-emoji-app",
+  "version": "1.0.0",
+  "description": "Simple Hello World emoji web app",
+  "type": "commonjs",
+  "scripts": {
+    "test": "node --test"
+  }
+}
